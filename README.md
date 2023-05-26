@@ -21,7 +21,7 @@ When we say *infinite content* we are referring to platforms that offer such a g
 
 3- Video games have limited content but they allow for so much variation in play, hence they are closer to infinite content.
 
-In the last decade, we have largely moved to platforms/mediums that offer infinite content such as streaming services, hence we find it defficult to regulate our usage. On the other hand, Mediums that offer non-infinite content are less harmful and less wasteful.
+In the last decade, we have largely moved to platforms/mediums that offer infinite content such as streaming services, hence we find it difficult to regulate our usage. On the other hand, Mediums that offer non-infinite content are less harmful and less wasteful.
 
 How is this relevant to this post? Well, **we want to eliminate most apps that offer infinite content from our phones.**
 
