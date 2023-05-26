@@ -53,17 +53,17 @@ The app store allows you to install both 1 and 2, hence we don't want to have an
 
 1- The catch is that you would need to have a phone that has a working official build of [LineageOS](https://download.lineage.microg.org/), otherwise you won't be able to follow this guide.
 
-2- You are expected to have technical knowledge with regards to modifying Android phones. THERE IS A RISK OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE.
+2- You are expected to have technical knowledge with regards to modifying Android phones. **THERE IS A RISK OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE.**
 
 3- You are willing to tolerate some of inevitable problems associated with this setup (More on this later).
 
-4- THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER. There is far too many hiccups and challenges associated with getting this setup up and running. This guide is only intended for tech people.
+4- **THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER.** There is far too many hiccups and challenges associated with getting this setup up and running. This guide is only intended for tech people.
 
 5- The Android ecosystem could change in the future in a way that would break the tools used in this guide, so I don't know if this will guide will continue working in the long term.
 
-Now that we are past the introduction, theory, and warnings. We can start explaining how to actually dumbify your android smartphone.
-
 ### Execution
+
+Now that we are past the introduction, theory, and warnings. We can start explaining how to actually dumbify your android smartphone.
 
 **Step 1:** Install LineageOS with MicroG
 
