@@ -35,19 +35,15 @@ Good software tools that are intended to reduce time spent on the screen should 
 
 There are three primary things that we want to eliminate:
 
-1- Anything involving infinite content/scrolling
+1- Anything involving infinite content/scrolling:
 
    - I'm primarily thinking of social media here.
    
    - Streaming apps can also be a problem, so we want to eliminate those as well.
 
-2- The Browser
+2- The Browser: The web browser gives you access to the whole internet, which means wasting a lot of time, so we don't want to have access to web browser in our phones.
 
-The web browser gives you access to the whole internet, which means wasting a lot of time, so we don't want to have access to web browser in our phones.
-
-3- App Stores
-
-The app store allows you to install both 1 and 2, hence we don't want to have any app stores in our phones.
+3- App Stores: The app store allows you to install both 1 and 2, hence we don't want to have any app stores in our phones.
 
 -----
 
@@ -57,11 +53,11 @@ The app store allows you to install both 1 and 2, hence we don't want to have an
 
 2- You are expected to have technical knowledge with regards to modifying Android phones, installing custom roms, and such. **THERE IS A RISK OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE.**
 
-3- You are willing to tolerate some of inevitable problems associated with this setup (more on this later).
+3- You are willing to tolerate some of the inevitable problems associated with this setup (more on this later).
 
 4- **THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER.** There is far too many hiccups and challenges associated with getting this to work.
 
-5- The Android ecosystem could change in the future in a way that would break the tools used in this guide, so I don't know if this guide will continue to be possible to apply in the long term.
+5- The Android ecosystem could change in the future in a way that would break the tools used in this guide, so I don't know if this guide will continue working in the long term.
 
 -----
 
@@ -85,7 +81,7 @@ After confirming that the ROM is working, you can move to the next step.
 
 **Step 2:** Deleting unwanted apps that ship with the rom:
 
-There are two system apps that ship with this ROM that we don't want because they violate our rules:
+There are two system apps that ship with this ROM that we don't want:
 
 - The web browser
 
@@ -139,7 +135,7 @@ This section is intended to address problems related to getting apps to work wit
 
 2- The Aurora Store can be buggy, so as an alternative you would need to find a well-reputed mirror site to download apks from. Some options that I know (but can't fully endorse) are:
 
-- F-Droid (For free open-source software)
+- F-Droid (for free open-source software)
 
 - APKMirror
 
@@ -153,11 +149,13 @@ There are several problems that we are going to encounter here:
 
 1- Some apps will simply refuse to work in phones with an unlocked bootloader or a custom ROM.
 
-In recent years, Google has made it very difficult to bypass the detection. Some people have managed to use Magisk to get certain apps to work, but I personally could not get it to work.
+In recent years, Google has made it very difficult to bypass the detection. Some people have managed to use Magisk to get certain apps to work, but I haven't had much luck with that.
 
 2- Google Apps and apps that depend on the Play Store:
 
-You must have already noticed that there are no instructions to install Gapps in this guide. This is mainly because we are trying to avoid getting the Play Store in the phone. However, for many people Google apps are essential. This is why we are using a special build of LineageOS that includes MicroG, which provides an alternative to some of the important APIs that ship with the Play Store, allowing us to run the apps that depend on these APIs. As such, some Google apps will still work in this build even without installing Gapps.
+You must have already noticed that there are no instructions to install Gapps in this guide. This is mainly because we are trying to avoid getting the Play Store in the phone. However, for many people Google apps are essential. This is why we are using a special build of LineageOS that includes MicroG, which provides an alternative to some of the important APIs that ship with the Play Store, allowing us to run the apps that depend on these APIs.
+
+3- The quality of photos taken with your phone camera will be sacrificed with this setup. There isn't any good fix for this, but you might get some improvement in photo quality if you download and install your phone's original camera app.
 
 #### Enabling MicroG
 
@@ -171,9 +169,7 @@ To get MicroG working, go to the microG Settings app on your phone and do the fo
 
 To check if MicroG is working, you can look at the Self-Check page in the app.
 
-It's possible to log in to your Google account from MicroG's settings. Note that this is against Google's terms of service, although so far no one has reported being banned for it, but you don't want to lose your account by getting banned, so I advise against it.
-
-4- The quality of photos taken with your phone camera will be sacrificed with this setup. There isn't any good fix for this. You might get some improvement in photo quality if you download and install your phone's original camera app.
+It's possible to log in to your Google account from MicroG's settings. Note that this is against Google's terms of service, although so far no one has reported being banned for it, but you don't want to lose your account by getting banned, so I advice against it.
 
 #### What to do if an app won't work
 
@@ -181,7 +177,7 @@ Despite all what we've done, some apps still won't work with our setup. In that 
 
 1- Live without the app: If it's not essential then we could just not use it.
 
-2- Find an alternative: In some cases, you will find that the next most popular app works fine, and so you could just use it.
+2- Find an alternative: In some cases, you will find that the next most popular app works fine.
 
 ### Advantages and Disadvantages
 
