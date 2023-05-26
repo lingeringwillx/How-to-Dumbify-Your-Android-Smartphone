@@ -49,17 +49,21 @@ The web browser gives you access to the whole internet, which means wasting a lo
 
 The app store allows you to install both 1 and 2, hence we don't want to have any app stores in our phones.
 
+-----
+
 ### Prerequisites and Warnings
 
 1- The catch is that you would need to have a phone that has a working official build of [LineageOS](https://download.lineage.microg.org/), otherwise you won't be able to follow this guide.
 
-2- You are expected to have technical knowledge with regards to modifying Android phones. **THERE IS A RISK OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE.**
+2- You are expected to have technical knowledge with regards to modifying Android phones, installing custom roms, and such. **THERE IS A RISK OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE.**
 
 3- You are willing to tolerate some of inevitable problems associated with this setup (More on this later).
 
-4- **THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER.** There is far too many hiccups and challenges associated with getting this setup up and running. This guide is only intended for tech people.
+4- **THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER.** There is far too many hiccups and challenges associated with getting this setup up and running.
 
 5- The Android ecosystem could change in the future in a way that would break the tools used in this guide, so I don't know if this will guide will continue working in the long term.
+
+-----
 
 ### Execution
 
@@ -150,10 +154,9 @@ There are several problems that we are going to encounter here:
 1- Some apps will simply refuse to work in phones with an unlocked bootloader or a custom ROM.
 in recent years, Google has made it very difficult to bypass the detection. Some people have managed to use Magisk to get certain apps to work, but I personally could not get it to work.
 
-2- Google Apps and Apps that depend on the Play Store.
+2- Google Apps and Apps that depend on the Play Store:
 
-You must have already noticed that there are no instructions to install Gapps in this guide. This is mainly because we are trying to avoid getting the Play Store in the phone.
-However, for many people Google apps are essential. This is why we are using a special build of LineageOS that includes MicroG, which provides an alternative to some of the important APIs that ship with the Play Store, allowing us to run the apps that depend on these APIs. As such, it should be possible to run some Google apps in this build without installing Gapps.
+You must have already noticed that there are no instructions to install Gapps in this guide. This is mainly because we are trying to avoid getting the Play Store in the phone. However, for many people Google apps are essential. This is why we are using a special build of LineageOS that includes MicroG, which provides an alternative to some of the important APIs that ship with the Play Store, allowing us to run the apps that depend on these APIs. As such, it should be possible to run some Google apps in this build without installing Gapps.
 
 #### Enabling MicroG
 
