@@ -49,7 +49,7 @@ The web browser gives you access to the whole internet, which means wasting a lo
 
 The app store allows you to install both 1 and 2, hence we don't want to have any app stores in our phones.
 
-### Prerequisites and warnings
+### Prerequisites and Warnings
 
 1- The catch is that you would need to have a phone that has a working official build of [LineageOS](https://download.lineage.microg.org/), otherwise you won't be able to follow this guide.
 
@@ -57,11 +57,9 @@ The app store allows you to install both 1 and 2, hence we don't want to have an
 
 3- You are willing to tolerate some of inevitable problems associated with this setup (More on this later).
 
-4- THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER. There is far too many hiccups and challenges associated with getting this setup up and running, so this guide is only intended for tech people.
+4- THIS GUIDE IS NOT INTENDED FOR THE AVERAGE SMARTPHONE USER. There is far too many hiccups and challenges associated with getting this setup up and running. This guide is only intended for tech people.
 
 5- The Android ecosystem could change in the future in a way that would break the tools used in this guide, so I don't know if this will guide will continue working in the long term.
-
------
 
 Now that we are past the introduction, theory, and warnings. We can start explaining how to actually dumbify your android smartphone.
 
@@ -77,7 +75,7 @@ Now that we are past the introduction, theory, and warnings. We can start explai
 
 4- Unlock your phone's bootloader. This will wipe all of your phone's data.
 
-5- Install the version of [LineageOS with MicroG](https://download.lineage.microg.org/)) for your respective smartphone. For the steps, you can [follow the guide for installing LineageOS](https://wiki.lineageos.org/) for the same phone.
+5- Install the version of [LineageOS with MicroG](https://download.lineage.microg.org/) for your respective smartphone. For the steps, you can [follow the guide for installing LineageOS](https://wiki.lineageos.org/) for the same phone.
 
 After confirming that the ROM is working, you can move to the next step.
 
@@ -180,8 +178,6 @@ Despite all what we've done, some apps still won't work with our setup. In that 
 1- Live without the app: If it's not essential then we could just not use it.
 
 2- Find an alternative: In some cases, you will find that the next most popular app works fine, and so you could just use it.
-
------
 
 ### Advantages and Disadvantages
 
