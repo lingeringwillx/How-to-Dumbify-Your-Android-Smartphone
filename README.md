@@ -155,7 +155,7 @@ In recent years, Google has made it very difficult to bypass the detection. Some
 
 You must have already noticed that there are no instructions to install Gapps in this guide. This is mainly because we are trying to avoid getting the Play Store in the phone. However, for many people Google apps are essential. This is why we are using a special build of LineageOS that includes MicroG, which provides an alternative to some of the important APIs that ship with the Play Store, allowing us to run the apps that depend on these APIs.
 
-3- The quality of photos taken with your phone camera will be sacrificed with this setup. There isn't any good fix for this, but you might get some improvement in photo quality if you download and install your phone's original camera app.
+3- The quality of photos taken with your phone's camera will be sacrificed with this setup. There isn't any good fix for this, but you might get some improvement in photo quality if you download and install your phone's original camera app.
 
 #### Enabling MicroG
 
