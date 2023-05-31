@@ -6,7 +6,7 @@ At some point in my late years of college, I was fed up with the amount of time 
 
 ### Why not just use a dumb phone?
 
-1- What I want to do is to reduce the amount of time that I'm wasting on my phone, while keeping some of the more useful features that smartphones have to offer. Using an actual dumb phone would be undesirable as they cannot do all the things that smartphones can do.
+1- What I want to do is to reduce the amount of time that I'm wasting on my phone, while still keeping some of the more useful features that smartphones have to offer. Using an actual dumb phone would be undesirable as they cannot do all the things that smartphones can do.
 
 2- It has been a common problem in recent years that whoever attempts to switch to a dumb phone gets made fun of and ridiculed. This setup makes it not so obvious that your phone's capabilities are limited, so things are going to be a little more bearable.
 
