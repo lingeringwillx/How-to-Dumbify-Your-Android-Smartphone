@@ -1,35 +1,12 @@
 ## How to Dumbify Your Android Smartphone (Very Technical)
 
-### Interlude
-
 At some point in my late years of college, I was fed up with the amount of time that was wasted on my phone and could have been dedicated to doing something more useful. I've decided that I've had enough and that I have to find a solution to my phone problem, and so I sat down and opened my laptop and came up with the ideas described in this post.
 
 ### Why not just use a dumb phone?
 
 1- What I want to do is to reduce the amount of time that I'm wasting on my phone, while still keeping some of the more useful features that smartphones have to offer. Using an actual dumb phone would be undesirable as they cannot do all the things that smartphones can do.
 
-2- It has been a common problem in recent years that whoever attempts to switch to a dumb phone gets made fun of and ridiculed. This setup makes it not so obvious that your phone's capabilities are limited, so things are going to be a little more bearable.
-
-### Some Theory
-
-#### Infinite Content vs Non-infinite Content
-When we say *infinite content* we are referring to platforms that offer such a gigantic amount of content that it's not feasible for any single individual to consume all of that content. 
-
-1- Social media sites have users constantly posting new content on these sites, hence they can be considered to be providing infinite content to consume.
-
-2- Streaming apps also have huge libraries, and as such, could be considered infinite content.
-
-3- Video games have limited content but they allow for so much variation in play, hence they are closer to infinite content.
-
-In the last decade, we have largely moved to platforms/mediums that offer infinite content such as streaming services, hence we find it difficult to regulate our usage. On the other hand, Mediums that offer non-infinite content are less harmful and less wasteful.
-
-How is this relevant to this post? Well, **we want to eliminate most apps that offer infinite content from our phones.**
-
-#### The Lever
-
-*The Lever* refers to the switch or button that could be used to turn off or disable software or tools designed to help the user reduce or block addictive content in their devices. Often times we find that blocking software is made very easy to disable or easy to circumvent. That is, the *the lever* is easy to pull.
-
-Good software tools that are intended to reduce time spent on the screen should at the least make it difficult to pull the lever, otherwise they are not effective.
+2- It has been a common problem in recent years that whoever attempts to switch to a dumb phone gets made fun of and ridiculed. This setup makes it not so obvious that your phone's capabilities are limited, so things are going to be a little more bearable
 
 ### The Plan
 
@@ -191,7 +168,7 @@ Despite all what we've done, some apps still won't work with our setup. In that 
 
 Now, this setup comes with a lot of disadvantages that you should be aware of:
 
-1- The main disadvantage of this setup is that it's still possible to download the apk for the browser or for any app on the computer and then install it on your phone, and then end up wasting a lot of time. Hence, an easy to pull *lever*.
+1- The main disadvantage of this setup is that it's still possible to download the apk for the browser or for any app on the computer and then install it on your phone, and then end up wasting a lot of time.
 
 2- You will inevitably come across situations where you need to install an app, open the browser, or do something with your phone that this setup can't do.
 
@@ -203,6 +180,6 @@ Now, this setup comes with a lot of disadvantages that you should be aware of:
 
 6- People might call you crazy.
 
-### Finale
+### Conclusion
 
 Despite all of the problems, I still chose to stick with this setup. It made me waste significantly less time on my phone and made the amount of time spent on my phone much more reasonable. Until Google and Apple decide to develop better time management solutions, I shall continue to follow my own messy solutions.
