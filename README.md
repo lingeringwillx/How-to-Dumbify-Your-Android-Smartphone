@@ -178,8 +178,6 @@ Now, this setup comes with a lot of disadvantages that you should be aware of:
 
 5- Good luck trying to explain to people why your phone doesn't have all the features and capabilities that people expect it to have.
 
-6- People might call you crazy.
-
 ### Conclusion
 
 Despite all of the problems, I still chose to stick with this setup. It made me waste significantly less time on my phone and made the amount of time spent on my phone much more reasonable. Until Google and Apple decide to develop better time management solutions, I shall continue to follow my own messy solutions.
