@@ -74,31 +74,30 @@ To delete these two apps, do the following:
 
 4- In the computer, open the command line in the same directory as ADB and Fastboot.
 
-5- Now you need to find where the apks for both the browser and the store are located:
-
-Use the 'adb shell' command to open the shell. Then use the 'ls' command to list the files for a specific directory in the phone. Places that you could search are:
-
-```
-product/app
-product/priv-app
-system/app
-system/priv-app
-system/product/app
-system/product/priv-app
-```
-
-The web browser that LineageOS is currently using is named *Jelly*.
-
-6- Once you have found where both the browser and app store are located exit the shell and run the following commands:
+5- Run the following commands:
 
 ```
 adb root
 adb remount
-adb shell
+```
+
+6- Now you need to find where the apks for both the browser and the store are located:
+
+To find the apks, use the `adb shell` command to open the shell, and then run the following command:
+
+```
+find system product -type f -name Jelly -or -type f -name FDroid
+```
+
+7- Once you found the locations of the apks, delete them with the following command:
+
+```
 rm -f app_location/app.apk
 ```
 
-Note: avoid using the -r argument in the rm command, unless you want to accidently delete a portion of the ROM.
+Note: The web browser that LineageOS is currently using is named *Jelly*.
+
+Note: Avoid using the -r argument in the rm command, unless you want to accidently delete a portion of the ROM.
 
 Once you've confirmed that both the web browser and app store apks have been deleted, restart your phone. The two apps should no longer show up in your phone's apps list.
 
