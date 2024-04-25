@@ -86,7 +86,7 @@ adb remount
 To find the apks, use the `adb shell` command to open the shell, and then run the following command:
 
 ```
-find system product -type f -name Jelly -or -type f -name FDroid
+find system product -type f -name Jelly.apk -or -type f -name FDroid.apk
 ```
 
 7- Once you found the locations of the apks, delete them with the following command:
