@@ -81,6 +81,8 @@ adb root
 adb remount
 ```
 
+You might need to restart the phone after the remount command, then you would have to run `adb root` again.
+
 6- Now you need to find where the apks for both the browser and the store are located:
 
 To find the apks, use the `adb shell` command to open the shell, and then run the following command:
