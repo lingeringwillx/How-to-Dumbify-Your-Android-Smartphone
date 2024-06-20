@@ -103,6 +103,8 @@ Note: Avoid using the -r argument in the rm command, unless you want to accident
 
 Once you've confirmed that both the web browser and app store apks have been deleted, restart your phone. The two apps should no longer show up in your phone's apps list.
 
+If this method doesn't work for you, then @eridorFR offers an [alternative approach](https://github.com/lingeringwillx/How-to-Dumbify-Your-Android-Smartphone/issues/4) involving disabling the apps through ADB for the current user, and then disabling the settings for creating multiple users.
+
 ### The Apps
 
 This section is intended to address problems related to getting apps to work with this setup.
