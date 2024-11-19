@@ -16,11 +16,13 @@
 
 3- Download and install LineageOS by following the guide for your [device](https://wiki.lineageos.org/devices).
 
-4- Enable developer options by going to *About phone* and clicking on *Build number* several times.
+4- Download and install [MindTheGapps](https://wiki.lineageos.org/gapps/). 
 
-5- Go to System -> Developer Options and enable USB debugging and Rooted debugging
+5- Enable developer options by going to *About phone* and clicking on *Build number* several times.
 
-6- Uninstall Google Play, Google Search, and the web browser using adb:
+6- Go to System -> Developer Options and enable USB debugging and Rooted debugging
+
+7- Uninstall Google Play, Google Search, and the web browser using adb:
 
 ```
 adb shell pm uninstall -k --user 0 com.android.vending
@@ -28,7 +30,7 @@ adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall -k --user 0 org.lineageos.jelly
 ```
 
-7- Disable the ability to create multiple users:
+8- Disable the ability to create multiple users:
 
 Create a text file named local.prop with the following content:
 
