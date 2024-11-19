@@ -1,10 +1,10 @@
-### How to Dumbify Your Android Smartphone (Very Technical)
+## How to Dumbify Your Android Smartphone
 
 **Note:** This guide has been updated with tips from [@eridorFR](https://github.com/lingeringwillx/How-to-Dumbify-Your-Android-Smartphone/issues/4).
 
 #### Warnings
 
-1- THERE IS A POTENTIAL OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE. FOLLOW THIS GUIDE AT YOUR OWN RISK.
+1- **THERE IS A POTENTIAL OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE. FOLLOW THIS GUIDE AT YOUR OWN RISK.**
 
 2- The Android ecosystem could change in the future in a way that would break the tools used in this guide, so I don't know if this guide will continue working in the long term.
 
@@ -66,7 +66,7 @@ adb root
 adb shell pm disable com.android.packageinstaller/.PackageInstallerActivity
 ```
 
-#### Disadvantages
+#### Disadvantages of using this setup
 
 This setup comes with a lot of disadvantages that you should be aware of:
 
