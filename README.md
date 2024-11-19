@@ -45,6 +45,8 @@ adb push local.prop data/local.prop
 adb shell chmod 644 data/local.prop
 ```
 
+Restart the phone for the changes to take effect.
+
 #### Installing Apps
 
 You can install apps either by:
