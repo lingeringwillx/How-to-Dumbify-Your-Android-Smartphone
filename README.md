@@ -57,7 +57,7 @@ adb shell cmd package install-existing com.android.vending
 
 2- By Downloading and installing the [Aurura Store](https://f-droid.org/packages/com.aurora.store/) then uninstalling it once it's longer needed.
 
-3- Using an alternative store or a mirror site such as F-Droid, ApkMirror, Uptodown, or APKPure.
+3- By using an alternative store or a mirror site such as F-Droid, ApkMirror, Uptodown, or APKPure.
 
 Optional: If you want to make it harder to install any apps, you can disable the package installer:
 
@@ -76,4 +76,4 @@ This setup comes with a lot of disadvantages that you should be aware of:
 
 3- Some apps won't work with an unlocked bootloader (such as banking apps).
 
-5- Good luck trying to explain to people why your phone doesn't have all the features and capabilities that people expect it to have.
+4- Good luck trying to explain to people why your phone doesn't have all the features and capabilities that people expect it to have.
