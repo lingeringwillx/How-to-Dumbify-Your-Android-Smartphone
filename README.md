@@ -49,6 +49,13 @@ adb shell chmod 644 data/local.prop
 
 Restart the phone for the changes to take effect.
 
+9- Optional: If you want to make it harder to install any apps, you can disable the package installer:
+
+```
+adb root
+adb shell pm disable com.android.packageinstaller/.PackageInstallerActivity
+```
+
 #### Installing Apps
 
 You can install apps either by:
@@ -63,12 +70,6 @@ adb shell cmd package install-existing com.android.vending
 
 3- By using an alternative store or a mirror site such as F-Droid, ApkMirror, Uptodown, or APKPure.
 
-Optional: If you want to make it harder to install any apps, you can disable the package installer:
-
-```
-adb root
-adb shell pm disable com.android.packageinstaller/.PackageInstallerActivity
-```
 
 #### Disadvantages of using this setup
 
