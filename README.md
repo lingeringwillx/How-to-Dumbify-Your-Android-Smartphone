@@ -1,7 +1,5 @@
 ## How to Dumbify Your Android Smartphone
 
-**Note:** This guide has been updated with tips from [@eridorFR](https://github.com/lingeringwillx/How-to-Dumbify-Your-Android-Smartphone/issues/4).
-
 #### Warnings
 
 1- **THERE IS A POTENTIAL OF BRICKING YOUR PHONE OR LOSING YOUR PERSONAL DATA HERE. FOLLOW THIS GUIDE AT YOUR OWN RISK.**
