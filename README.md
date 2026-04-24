@@ -45,13 +45,13 @@ adb push local.prop data/local.prop
 adb shell chmod 644 data/local.prop
 ```
 
+Restart the phone for the changes to take effect.
+
 9- Disable app installation permission:
 
 ```
  adb shell pm set-user-restriction --user 0 no_install_apps 1
 ```
-
-Restart the phone for the changes to take effect.
 
 #### Installing Apps
 
