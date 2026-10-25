@@ -50,7 +50,7 @@ Restart the phone for the changes to take effect.
 9- Disable app installation permission:
 
 ```
- adb shell pm set-user-restriction --user 0 no_install_apps 1
+adb shell pm set-user-restriction --user 0 no_install_apps 1
 ```
 
 #### Installing Apps
